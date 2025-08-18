@@ -1,0 +1,40 @@
+body{
+    background-color: black
+    ;
+}
+
+.head{
+    color: aqua;
+}
+
+
+.head img{
+    color: cyan;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-style: double;
+    border-radius: 20%;
+    border-width: 20px;
+    width: 97%;
+    height: 400px;
+}
+
+.nav li{
+    display: inline-block;
+    padding: 25px;
+    border-style: dashed;
+
+}
+
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
+}
+
+div{
+    text-align: center;
+}
+
+
+
